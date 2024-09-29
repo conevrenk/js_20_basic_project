@@ -1,0 +1,4 @@
+#teknolojiler
+-html
+-css
+-javascript
